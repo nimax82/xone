@@ -200,5 +200,4 @@ module_gip_driver(gip_guitar_driver);
 MODULE_ALIAS("gip:MadCatz.Xbox.Guitar.Stratocaster");
 MODULE_AUTHOR("Severin von Wnuck-Lipinski <severinvonw@outlook.de>");
 MODULE_DESCRIPTION("xone GIP guitar driver");
-MODULE_VERSION("#VERSION#");
 MODULE_LICENSE("GPL");
